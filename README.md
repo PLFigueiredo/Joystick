@@ -19,6 +19,9 @@ Projeto realizado para a disciplina SSC0180 (Eletrônica para Computação) do B
 # Circuito com Arduino
 
 # Imagens
+![WhatsApp Image 2023-07-09 at 16 07 41](https://github.com/PLFigueiredo/Joystick/assets/70961838/5aeb8632-f0cd-4dab-b979-6894b7d84448)
+![01](https://github.com/PLFigueiredo/Joystick/assets/70961838/a9541d80-af67-42cf-8d0e-4129ded13463)
+
 
 # Vídeo 
 
