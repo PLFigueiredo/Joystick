@@ -11,8 +11,8 @@ Projeto realizado para a disciplina SSC0180 (Eletrônica para Computação) do B
 | ------------- | ------------- |
 | Placa Uno Rev3 Atmega328  | R$44,99  |
 | Módulo Joystick PS2 5V  | R$10,49  |
-| Protoboard  | R$20,00 |
-| **Valor total**  | **R$75,48** |
+| Protoboard  | R$20,40 |
+| **Valor total**  | **R$75,88** |
 
 
 # Software
