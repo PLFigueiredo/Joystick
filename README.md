@@ -26,6 +26,11 @@ O projeto constitui um modelo de Joystick que funciona para qualquer tarefa que 
 
 # Vídeo 
 
+https://github.com/PLFigueiredo/Joystick/assets/70961838/27d8d143-4b36-4b30-82a5-5f1f32e01ba9
+
+https://github.com/PLFigueiredo/Joystick/assets/70961838/4f51d6fe-a0cd-4759-a0c0-2d2fb8a9eb72
+
+
 # Alunos
 - Felipe de Castro Azambuja
 - Nicolas Carreiro Rodrigues
