@@ -20,7 +20,7 @@ O projeto constitui um modelo de Joystick que funciona para qualquer tarefa que 
 ![01](https://github.com/PLFigueiredo/Joystick/assets/70961838/a9541d80-af67-42cf-8d0e-4129ded13463)
 
 
-# Vídeo 
+# Vídeos do funcionamento 
 
 https://github.com/PLFigueiredo/Joystick/assets/70961838/27d8d143-4b36-4b30-82a5-5f1f32e01ba9
 
